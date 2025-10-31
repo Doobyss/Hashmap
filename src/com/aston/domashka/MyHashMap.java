@@ -89,7 +89,6 @@ public class MyHashMap<K, V> {
         return size;
     }
 
-    // Для теста
     public static void main(String[] args) {
         MyHashMap<String, Integer> map = new MyHashMap<>();
 
